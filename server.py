@@ -309,10 +309,10 @@ def carousel():
                 <img src="{f.url_for('static', filename='img/mars1.jpg')}" style="height: 400px; width: 80px;" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="{f.url_for('static', filename='img/mars1.jpg')}" style="height: 400px; width: 80px;" class="d-block w-100" alt="...">
+                <img src="{f.url_for('static', filename='img/mars2.jpg')}" style="height: 400px; width: 80px;" class="d-block w-100" alt="...">
               </div>
               <div class="carousel-item">
-                <img src="{f.url_for('static', filename='img/mars1.jpg')}" style="height: 400px; width: 80px;" class="d-block w-100" alt="...">
+                <img src="{f.url_for('static', filename='img/mars3.jpg')}" style="height: 400px; width: 80px;" class="d-block w-100" alt="...">
               </div>
             </div>
             
